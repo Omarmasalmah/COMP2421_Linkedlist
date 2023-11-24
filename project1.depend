@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653066264 source:c:\users\coolnet\desktop\datasructure\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653163362 source:c:\users\coolnet\desktop\datasructure\datast\main.c
+	<stdio.h>
+	<stdlib.h>
+
